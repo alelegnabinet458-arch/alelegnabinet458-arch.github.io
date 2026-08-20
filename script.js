@@ -1,0 +1,1 @@
+console.log("Alelegn Abinet Portfolio loaded successfully.");
