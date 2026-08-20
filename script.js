@@ -1,1 +1,1 @@
-console.log("Alelegn Abinet Portfolio Loaded Successfully.");
+console.log("Alelegn Abinet Portfolio loaded successfully.");
